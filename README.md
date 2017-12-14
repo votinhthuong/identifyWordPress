@@ -1,0 +1,2 @@
+# identifyWordPress
+Identify WordPress tool.
